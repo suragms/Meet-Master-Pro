@@ -85,7 +85,7 @@ meat-master-pro/
 
 1. **Clone the repository**
    ```bash
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/suragms/Meet-Master-Pro.git
    cd meat-master-pro
    ```
 
@@ -359,4 +359,3 @@ Feel free to reach out for collaboration, project inquiries, or just to connect!
 - **💻 GitHub**: [github.com/suragms](https://github.com/suragms)
 - **📸 Instagram**: [instagram.com/surag_sunil](https://instagram.com/surag_sunil)
 - **🔗 Linktree**: [linktr.ee/suragdevstudio](https://linktr.ee/suragdevstudio)
-
